@@ -1,0 +1,3 @@
+[submodule "ignored_module"]
+	path = ignored_module
+	url = xxx.git
